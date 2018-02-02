@@ -1,2 +1,2 @@
 # ComfyCalc
-Program to calculate your comfyness level
+Program to calculate your comfiness level
